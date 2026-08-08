@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-195235-s37s",
+      "title": "Esdeath Muken",
+      "commanders": [
+        "Esdeath Muken"
+      ],
+      "guild": {
+        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+        "name": "The Ironclaw Dominion",
+        "tag": "Iron"
+      },
+      "dateStart": "2026-08-08T02:52:35.000Z",
+      "dateEnd": "2026-08-08T03:29:28.000Z",
+      "dateLabel": "8/7/2026, 7:52:35 PM - 8/7/2026, 8:29:28 PM",
+      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260807-195235-s37s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260731-191047-v3og",
       "title": "Esdeath Muken",
       "commanders": [
