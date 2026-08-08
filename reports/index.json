@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-220336-zi6c",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-08T05:03:36.000Z",
+      "dateEnd": "2026-08-08T06:11:20.000Z",
+      "dateLabel": "8/7/2026, 10:03:36 PM - 8/7/2026, 11:11:20 PM",
+      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260807-220336-zi6c",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 63
+      }
+    },
+    {
       "id": "20260807-195235-s37s",
       "title": "Esdeath Muken",
       "commanders": [
