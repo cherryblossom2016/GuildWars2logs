@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-163312-maj4",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-08-16T23:33:12.000Z",
+      "dateEnd": "2026-08-17T01:10:23.000Z",
+      "dateLabel": "8/16/2026, 4:33:12 PM - 8/16/2026, 6:10:23 PM",
+      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260816-163312-maj4",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260815-164227-lw8s",
       "title": "Emperor Chopsticks",
       "commanders": [
