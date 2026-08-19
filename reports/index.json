@@ -186,28 +186,5 @@
       "avgSquadSize": 20,
       "avgEnemySize": 40
     }
-  },
-  {
-    "id": "20260729-173630-ov2q",
-    "title": "Esdeath Muken",
-    "commanders": [
-      "Esdeath Muken"
-    ],
-    "dateStart": "2026-07-30T00:36:30.000Z",
-    "dateEnd": "2026-07-30T01:38:21.000Z",
-    "dateLabel": "7/29/2026, 5:36:30 PM - 7/29/2026, 6:38:21 PM",
-    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260729-173630-ov2q",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 20,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 41
-    }
   }
 ]
