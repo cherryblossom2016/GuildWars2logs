@@ -1,302 +1,269 @@
-{
-  "colorPalette": "emerald-mint",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260818-164650-73nc",
-      "title": "Emperor Chopsticks",
-      "commanders": [
-        "Emperor Chopsticks"
-      ],
-      "guild": {
-        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
-        "name": "Pugs Meet World Vs World",
-        "tag": "PuGS"
-      },
-      "dateStart": "2026-08-18T23:46:50.000Z",
-      "dateEnd": "2026-08-19T00:42:00.000Z",
-      "dateLabel": "8/18/2026, 4:46:50 PM - 8/18/2026, 5:42:00 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260818-164650-73nc",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 37,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 47
-      }
+[
+  {
+    "id": "20260818-164650-73nc",
+    "title": "Emperor Chopsticks",
+    "commanders": [
+      "Emperor Chopsticks"
+    ],
+    "guild": {
+      "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+      "name": "Pugs Meet World Vs World",
+      "tag": "PuGS"
     },
-    {
-      "id": "20260816-163312-maj4",
-      "title": "Emperor Chopsticks",
-      "commanders": [
-        "Emperor Chopsticks"
+    "dateStart": "2026-08-18T23:46:50.000Z",
+    "dateEnd": "2026-08-19T00:42:00.000Z",
+    "dateLabel": "8/18/2026, 4:46:50 PM - 8/18/2026, 5:42:00 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260818-164650-73nc",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 37,
+          "color": "#ffffff"
+        }
       ],
-      "guild": {
-        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
-        "name": "Pugs Meet World Vs World",
-        "tag": "PuGS"
-      },
-      "dateStart": "2026-08-16T23:33:12.000Z",
-      "dateEnd": "2026-08-17T01:10:23.000Z",
-      "dateLabel": "8/16/2026, 4:33:12 PM - 8/16/2026, 6:10:23 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260816-163312-maj4",
-      "summary": {
-        "borderlandsPct": 0.6666666666666666,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 9,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260815-164227-lw8s",
-      "title": "Emperor Chopsticks",
-      "commanders": [
-        "Emperor Chopsticks"
-      ],
-      "guild": {
-        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
-        "name": "Pugs Meet World Vs World",
-        "tag": "PuGS"
-      },
-      "dateStart": "2026-08-15T23:42:27.000Z",
-      "dateEnd": "2026-08-16T00:42:21.000Z",
-      "dateLabel": "8/15/2026, 4:42:27 PM - 8/15/2026, 5:42:21 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260815-164227-lw8s",
-      "summary": {
-        "borderlandsPct": 0.027777777777777776,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 35,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260814-191116-lg57",
-      "title": "Esdeath Muken",
-      "commanders": [
-        "Esdeath Muken"
-      ],
-      "guild": {
-        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
-        "name": "The Ironclaw Dominion",
-        "tag": "Iron"
-      },
-      "dateStart": "2026-08-15T02:11:16.000Z",
-      "dateEnd": "2026-08-15T03:02:14.000Z",
-      "dateLabel": "8/14/2026, 7:11:16 PM - 8/14/2026, 8:02:14 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260814-191116-lg57",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 27,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 34
-      }
-    },
-    {
-      "id": "20260808-171056-v63z",
-      "title": "Esdeath Muken",
-      "commanders": [
-        "Esdeath Muken"
-      ],
-      "guild": {
-        "id": "00000000-0000-0000-0000-000000000000",
-        "name": null,
-        "tag": null
-      },
-      "dateStart": "2026-08-09T00:10:56.000Z",
-      "dateEnd": "2026-08-09T00:57:37.000Z",
-      "dateLabel": "8/8/2026, 5:10:56 PM - 8/8/2026, 5:57:37 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260808-171056-v63z",
-      "summary": {
-        "borderlandsPct": 0.2608695652173913,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 34,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260807-220336-zi6c",
-      "title": "Lust Less",
-      "commanders": [
-        "Lust Less"
-      ],
-      "guild": {
-        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
-        "name": "Rez Build N Use",
-        "tag": "HitF"
-      },
-      "dateStart": "2026-08-08T05:03:36.000Z",
-      "dateEnd": "2026-08-08T06:11:20.000Z",
-      "dateLabel": "8/7/2026, 10:03:36 PM - 8/7/2026, 11:11:20 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260807-220336-zi6c",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 6,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 45,
-        "avgEnemySize": 63
-      }
-    },
-    {
-      "id": "20260807-195235-s37s",
-      "title": "Esdeath Muken",
-      "commanders": [
-        "Esdeath Muken"
-      ],
-      "guild": {
-        "id": "FC683288-357E-E711-80D4-E4115BEBA648",
-        "name": "The Ironclaw Dominion",
-        "tag": "Iron"
-      },
-      "dateStart": "2026-08-08T02:52:35.000Z",
-      "dateEnd": "2026-08-08T03:29:28.000Z",
-      "dateLabel": "8/7/2026, 7:52:35 PM - 8/7/2026, 8:29:28 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260807-195235-s37s",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 24,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 15,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260731-191047-v3og",
-      "title": "Esdeath Muken",
-      "commanders": [
-        "Esdeath Muken"
-      ],
-      "dateStart": "2026-08-01T02:10:47.000Z",
-      "dateEnd": "2026-08-01T03:47:40.000Z",
-      "dateLabel": "7/31/2026, 7:10:47 PM - 7/31/2026, 8:47:40 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260731-191047-v3og",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 16,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260729-173630-ov2q",
-      "title": "Esdeath Muken",
-      "commanders": [
-        "Esdeath Muken"
-      ],
-      "dateStart": "2026-07-30T00:36:30.000Z",
-      "dateEnd": "2026-07-30T01:38:21.000Z",
-      "dateLabel": "7/29/2026, 5:36:30 PM - 7/29/2026, 6:38:21 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260729-173630-ov2q",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 20,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 13,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260726-170740-e7cv",
-      "title": "Esdeath Muken",
-      "commanders": [
-        "Esdeath Muken"
-      ],
-      "dateStart": "2026-07-27T00:07:40.000Z",
-      "dateEnd": "2026-07-27T01:25:52.000Z",
-      "dateLabel": "7/26/2026, 5:07:40 PM - 7/26/2026, 6:25:52 PM",
-      "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260726-170740-e7cv",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 16,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 51
-      }
+      "avgSquadSize": 30,
+      "avgEnemySize": 47
     }
-  ]
-}
+  },
+  {
+    "id": "20260816-163312-maj4",
+    "title": "Emperor Chopsticks",
+    "commanders": [
+      "Emperor Chopsticks"
+    ],
+    "guild": {
+      "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+      "name": "Pugs Meet World Vs World",
+      "tag": "PuGS"
+    },
+    "dateStart": "2026-08-16T23:33:12.000Z",
+    "dateEnd": "2026-08-17T01:10:23.000Z",
+    "dateLabel": "8/16/2026, 4:33:12 PM - 8/16/2026, 6:10:23 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260816-163312-maj4",
+    "summary": {
+      "borderlandsPct": 0.6666666666666666,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 19
+    }
+  },
+  {
+    "id": "20260815-164227-lw8s",
+    "title": "Emperor Chopsticks",
+    "commanders": [
+      "Emperor Chopsticks"
+    ],
+    "guild": {
+      "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+      "name": "Pugs Meet World Vs World",
+      "tag": "PuGS"
+    },
+    "dateStart": "2026-08-15T23:42:27.000Z",
+    "dateEnd": "2026-08-16T00:42:21.000Z",
+    "dateLabel": "8/15/2026, 4:42:27 PM - 8/15/2026, 5:42:21 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260815-164227-lw8s",
+    "summary": {
+      "borderlandsPct": 0.027777777777777776,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 35,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 38
+    }
+  },
+  {
+    "id": "20260814-191116-lg57",
+    "title": "Esdeath Muken",
+    "commanders": [
+      "Esdeath Muken"
+    ],
+    "guild": {
+      "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+      "name": "The Ironclaw Dominion",
+      "tag": "Iron"
+    },
+    "dateStart": "2026-08-15T02:11:16.000Z",
+    "dateEnd": "2026-08-15T03:02:14.000Z",
+    "dateLabel": "8/14/2026, 7:11:16 PM - 8/14/2026, 8:02:14 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260814-191116-lg57",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 27,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 34
+    }
+  },
+  {
+    "id": "20260808-171056-v63z",
+    "title": "Esdeath Muken",
+    "commanders": [
+      "Esdeath Muken"
+    ],
+    "guild": {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "tag": null
+    },
+    "dateStart": "2026-08-09T00:10:56.000Z",
+    "dateEnd": "2026-08-09T00:57:37.000Z",
+    "dateLabel": "8/8/2026, 5:10:56 PM - 8/8/2026, 5:57:37 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260808-171056-v63z",
+    "summary": {
+      "borderlandsPct": 0.2608695652173913,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 34,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260807-195235-s37s",
+    "title": "Esdeath Muken",
+    "commanders": [
+      "Esdeath Muken"
+    ],
+    "guild": {
+      "id": "FC683288-357E-E711-80D4-E4115BEBA648",
+      "name": "The Ironclaw Dominion",
+      "tag": "Iron"
+    },
+    "dateStart": "2026-08-08T02:52:35.000Z",
+    "dateEnd": "2026-08-08T03:29:28.000Z",
+    "dateLabel": "8/7/2026, 7:52:35 PM - 8/7/2026, 8:29:28 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260807-195235-s37s",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 24,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260731-191047-v3og",
+    "title": "Esdeath Muken",
+    "commanders": [
+      "Esdeath Muken"
+    ],
+    "dateStart": "2026-08-01T02:10:47.000Z",
+    "dateEnd": "2026-08-01T03:47:40.000Z",
+    "dateLabel": "7/31/2026, 7:10:47 PM - 7/31/2026, 8:47:40 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260731-191047-v3og",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260729-173630-ov2q",
+    "title": "Esdeath Muken",
+    "commanders": [
+      "Esdeath Muken"
+    ],
+    "dateStart": "2026-07-30T00:36:30.000Z",
+    "dateEnd": "2026-07-30T01:38:21.000Z",
+    "dateLabel": "7/29/2026, 5:36:30 PM - 7/29/2026, 6:38:21 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260729-173630-ov2q",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 20,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260726-170740-e7cv",
+    "title": "Esdeath Muken",
+    "commanders": [
+      "Esdeath Muken"
+    ],
+    "dateStart": "2026-07-27T00:07:40.000Z",
+    "dateEnd": "2026-07-27T01:25:52.000Z",
+    "dateLabel": "7/26/2026, 5:07:40 PM - 7/26/2026, 6:25:52 PM",
+    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260726-170740-e7cv",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 16,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 51
+    }
+  }
+]
