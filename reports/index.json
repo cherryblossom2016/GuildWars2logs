@@ -66,39 +66,6 @@
     }
   },
   {
-    "id": "20260815-164227-lw8s",
-    "title": "Emperor Chopsticks",
-    "commanders": [
-      "Emperor Chopsticks"
-    ],
-    "guild": {
-      "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
-      "name": "Pugs Meet World Vs World",
-      "tag": "PuGS"
-    },
-    "dateStart": "2026-08-15T23:42:27.000Z",
-    "dateEnd": "2026-08-16T00:42:21.000Z",
-    "dateLabel": "8/15/2026, 4:42:27 PM - 8/15/2026, 5:42:21 PM",
-    "url": "https://cherryblossom2016.github.io/GuildWars2logs/?report=20260815-164227-lw8s",
-    "summary": {
-      "borderlandsPct": 0.027777777777777776,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 35,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 38
-    }
-  },
-  {
     "id": "20260814-191116-lg57",
     "title": "Esdeath Muken",
     "commanders": [
